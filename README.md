@@ -2,7 +2,7 @@
 
 End-to-end healthcare operations analytics project combining four machine-learning techniques with a FastAPI prediction service and a Streamlit dashboard.
 
-**Live dashboard:** <https://health-analyticss.streamlit.app/>
+**Live dashboard:** <https://health-analytics-01.streamlit.app/>
 
 | Task | Technique | Dataset |
 |---|---|---|
